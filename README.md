@@ -1,4 +1,4 @@
-### Global-Terrorism-EDA
+## Global-Terrorism-EDA
 
 Objective: The goal of this project is to make EDA and finding the insights derived from the data.
 
@@ -9,9 +9,9 @@ the goal is to use as much data analaytics tools in python such as matplotlib, p
 The dataset can be found here: https://www.kaggle.com/datasets/START-UMD/gtd
 
 
-#### Methodology
+### Methodology
 
-1st. Preprocessing
+#### 1st. Preprocessing
 
 1- Reading data
 
@@ -29,7 +29,7 @@ The dataset can be found here: https://www.kaggle.com/datasets/START-UMD/gtd
 
 
 
-2nd. Data Analysis
+#### 2nd. Data Analysis
 
 1- Calculate the mean, median, and standard deviation of relevant numeric columns
 
@@ -45,7 +45,7 @@ The dataset can be found here: https://www.kaggle.com/datasets/START-UMD/gtd
 
 
 
-3rd. Data Visualization
+#### 3rd. Data Visualization
 
 1- Line plot showing the trend of terrorist attacks over the years
 
@@ -65,7 +65,7 @@ The dataset can be found here: https://www.kaggle.com/datasets/START-UMD/gtd
 
 
 
-4th. Demonstrate how to use Dask and Compare the performance and memory usage of Dask operations with Pandas
+#### 4th. Demonstrate how to use Dask and Compare the performance and memory usage of Dask operations with Pandas
  
   - Create function (calculate ()) to calculate the time & memory usage
 
