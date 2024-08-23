@@ -34,6 +34,8 @@ The database is maintained by researchers at the National Consortium for the Stu
 6- check the data duplication
 
 7- Store the cleaned dataset as (‘data.csv’)
+-----------------------------------------------------
+
 
 2nd. Data Analysis
 
@@ -48,6 +50,8 @@ The database is maintained by researchers at the National Consortium for the Stu
 5- Determine the most affected regions and countries
 
 6- Identify the most common attack types and targets
+--------------------------------------------------
+
 
 3rd. Data Visualization
 
@@ -66,6 +70,8 @@ The database is maintained by researchers at the National Consortium for the Stu
  1- Create interactive visualizations using Plotly (optional for advanced students)
 
  2- Time series animation showing the spread of terrorism over the years
+-------------------------------------------------------
+
 
 4th. Demonstrate how to use Dask and Compare the performance and memory usage of Dask operations with Pandas
  
